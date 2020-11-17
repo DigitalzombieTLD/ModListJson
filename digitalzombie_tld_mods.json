@@ -21,6 +21,26 @@
 				"issues":"",
 				"notes":""
 			}
+		},
+		{
+			"name":"JumpMod",
+			"version":"0.9.1",
+			"updated":"2020-11-17",
+			"description":"Let's you jump",
+			"modURL":"https://github.com/DigitalzombieTLD/JumpMod",
+			"downloadURL":"https://github.com/DigitalzombieTLD/JumpMod/releases/download/0.9.1/TLD.JumpMod_v0.9.1.zip",
+			"testedon":{
+				"tldversion":"1.87",
+				"mlversion":"0.2.7.2"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
 		}
 	]
 }
