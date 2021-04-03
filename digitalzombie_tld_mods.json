@@ -4,13 +4,13 @@
 	"mods":[
 		{
 			"name":"Fox Companion",
-			"version":"0.9.8",
-			"updated":"2020-11-11",
+			"version":"0.9.9",
+			"updated":"2021-04-03",
 			"description":"A little fox companion for the lonely TLD player.",
 			"modURL":"https://github.com/DigitalzombieTLD/FoxCompanion",
-			"downloadURL":"https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.8/TLD.FoxCompanion_Mod_v0.9.8.zip",
+			"downloadURL":"https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.9/TLD.FoxCompanion_Mod_v0.9.9.zip",
 			"testedon":{
-				"tldversion":"1.87",
+				"tldversion":"1.93",
 				"mlversion":"0.2.7.2"
 			},
 			"dependencies":[
