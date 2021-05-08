@@ -54,7 +54,7 @@
 				"mlversion":"0.2.7.2"
 			},
 			"dependencies":[
-				"None"
+				"Nvidia graphics card & GeForce Experience"
 			],
 			"status":{
 				"working":true,
