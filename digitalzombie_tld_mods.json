@@ -24,7 +24,7 @@
 		},
 		{
 			"name":"JumpMod",
-			"version":"0.9.1",
+			"version":"0.9.0",
 			"updated":"2020-11-17",
 			"description":"Let's you jump",
 			"modURL":"https://github.com/DigitalzombieTLD/JumpMod",
@@ -35,6 +35,26 @@
 			},
 			"dependencies":[
 				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"Nvidia Ansel",
+			"version":"0.9.0",
+			"updated":"2021-05-09",
+			"description":"Do you want Ansel? Because thats how you get Ansel",
+			"modURL":"https://github.com/DigitalzombieTLD/TLDAnsel",
+			"downloadURL":"https://github.com/DigitalzombieTLD/TLDAnsel/releases/download/0.9.0/TLDAnsel.zip",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.2.7.2"
+			},
+			"dependencies":[
+				"None"
 			],
 			"status":{
 				"working":true,
