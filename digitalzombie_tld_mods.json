@@ -3,19 +3,23 @@
 	"authorURL":"https://github.com/DigitalzombieTLD?tab=repositories",
 	"mods":[
 		{
-			"name":"Fox Companion",
+			"name":"FoxCompanion",
 			"version":"0.9.9",
 			"updated":"2021-04-03",
 			"description":"A little fox companion for the lonely TLD player.",
 			"modURL":"https://github.com/DigitalzombieTLD/FoxCompanion",
 			"downloadURL":"https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.9/TLD.FoxCompanion_Mod_v0.9.9.zip",
 			"testedon":{
-				"tldversion":"1.93",
-				"mlversion":"0.2.7.2"
+				"tldversion":"1.94",
+				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -30,12 +34,16 @@
 			"modURL":"https://github.com/DigitalzombieTLD/JumpMod",
 			"downloadURL":"https://github.com/DigitalzombieTLD/JumpMod/releases/download/0.9.1/TLD.JumpMod_v0.9.1.zip",
 			"testedon":{
-				"tldversion":"1.87",
-				"mlversion":"0.2.7.2"
+				"tldversion":"1.94",
+				"mlversion":"0.4.0.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -43,7 +51,7 @@
 			}
 		},
 		{
-			"name":"Nvidia Ansel",
+			"name":"AnselMod",
 			"version":"0.9.0",
 			"updated":"2021-05-09",
 			"description":"Do you want Ansel? Because thats how you get Ansel",
@@ -51,15 +59,17 @@
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLDAnsel/releases/download/0.9.0/TLDAnsel.zip",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.2.7.2"
+				"mlversion":"0.4.0.0"
 			},
-			"dependencies":[
-				"Nvidia graphics card and GeForce Experience"
-			],
+			"dependencies":[],
+			"updater":{
+				"enable":false,
+				"downloads":[]
+			},
 			"status":{
 				"working":true,
 				"issues":"",
-				"notes":""
+				"notes":"REQUIRES an Nvidia graphics card and GeForce Experience"
 			}
 		}
 	]
