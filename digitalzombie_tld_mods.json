@@ -17,7 +17,7 @@
 				"ModSettings"
 			],
 			"updater":{
-				"enable":true,
+				"enable":false,
 				"downloads":[]
 			},
 			"status":{
