@@ -89,7 +89,7 @@
 			},
 			"status":{
 				"working":true,
-				"issues":"",
+				"issues":"May not work on all systems. Very very wonky. Thanks Nvidia!",
 				"notes":"REQUIRES an Nvidia graphics card and GeForce Experience"
 			}
 		}
