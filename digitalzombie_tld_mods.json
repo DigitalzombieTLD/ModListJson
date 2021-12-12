@@ -89,7 +89,7 @@
 				"GearSpawner",
 				"LocalizationUtilities",
 				"CraftingRevisions",
-				"DeveloperConsole",
+				"DeveloperConsole"
 			],
 			"updater":{
 				"enable":true,
