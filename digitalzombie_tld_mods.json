@@ -80,15 +80,9 @@
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.8/TLDSolitaire_v0.8.zip",
 			"testedon":{
 				"tldversion":"1.98",
-				"mlversion":"0.4.2.0"
+				"mlversion":"0.4.3.0"
 			},
-			"dependencies":[
-				"AudioCore",
-				"ModSettings",
-				"ModComponent",
-				"GearSpawner",
-				"LocalizationUtilities",
-				"CraftingRevisions",
+			"dependencies":[				
 				"DeveloperConsole"
 			],
 			"updater":{
