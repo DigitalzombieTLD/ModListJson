@@ -27,6 +27,27 @@
 			}
 		},
 		{
+			"name":"AudioCore Plugin",
+			"version":"1.0.0.0",
+			"updated":"2021-12-12",
+			"description":"A plugin that enables the standard Unity audio engine. Does nothing on it's own.",
+			"modURL":"https://github.com/DigitalzombieTLD/AudioCore",
+			"downloadURL":"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.0/AudioCore_PLUGIN_1.0.zip",
+			"testedon":{
+				"tldversion":"1.98",
+				"mlversion":"0.4.3.0"
+			},			
+			"updater":{
+				"enable":false,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
 			"name":"JumpMod",
 			"version":"0.9.0",
 			"updated":"2020-11-17",
