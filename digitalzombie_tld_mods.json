@@ -75,12 +75,12 @@
 			"name":"TLD Solitaire",
 			"version":"0.8.0",
 			"updated":"2020-12-12",
-			"description":"Waste your time in style; play Solitaire",
+			"description":"Waste your time in style - play Solitaire",
 			"modURL":"https://github.com/DigitalzombieTLD/TLDSolitaire",
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.8/TLDSolitaire_v0.8.zip",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.5.2.0"
+				"tldversion":"1.98",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"AudioCore",
