@@ -36,7 +36,8 @@
 			"testedon":{
 				"tldversion":"1.98",
 				"mlversion":"0.4.3.0"
-			},			
+			},
+			"dependencies":[],			
 			"updater":{
 				"enable":false,
 				"downloads":[]
