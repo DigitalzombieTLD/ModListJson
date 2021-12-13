@@ -73,6 +73,30 @@
 			}
 		},
 		{
+			"name":"StickPick",
+			"version":"1.0.0",
+			"updated":"2020-12-13",
+			"description":"Auto pickup sticks/stones in a radius around you",
+			"modURL":"https://github.com/DigitalzombieTLD/TLD-StickPick",
+			"downloadURL":"https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.0.0/TLDStickPick_v1.0.0.zip",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.4.3.0"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
 			"name":"TLD Solitaire",
 			"version":"0.8.5",
 			"updated":"2020-12-12",
