@@ -10,7 +10,7 @@
 			"modURL":"https://github.com/DigitalzombieTLD/FoxCompanion",
 			"downloadURL":"https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.9.5/TLD.FoxCompanion_Mod_v0.9.9.5_FURY.zip",
 			"testedon":{
-				"tldversion":"1.95",
+				"tldversion":"1.99",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
@@ -34,7 +34,7 @@
 			"modURL":"https://github.com/DigitalzombieTLD/AudioCore",
 			"downloadURL":"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.0/AudioCore_PLUGIN_1.0.zip",
 			"testedon":{
-				"tldversion":"1.98",
+				"tldversion":"1.99",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[],			
@@ -80,7 +80,7 @@
 			"modURL":"https://github.com/DigitalzombieTLD/TLD-StickPick",
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.1.2/TLDStickPick_v1.1.2.zip",
 			"testedon":{
-				"tldversion":"1.98",
+				"tldversion":"1.99",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
@@ -98,13 +98,13 @@
 		},
 		{
 			"name":"TLD Solitaire",
-			"version":"0.8.5",
-			"updated":"2020-12-12",
+			"version":"0.9.1",
+			"updated":"2020-12-16",
 			"description":"Waste your time in style - play Solitaire",
 			"modURL":"https://github.com/DigitalzombieTLD/TLDSolitaire",
-			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.8.5/TLDSolitaire_v0.8.5.zip",
+			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.9.1/TLDSolitaire_v0.9.1.zip",
 			"testedon":{
-				"tldversion":"1.98",
+				"tldversion":"1.99",
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
