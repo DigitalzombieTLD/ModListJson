@@ -1,6 +1,6 @@
 {
 	"author":"Digitalzombie",
-	"authorURL":"https://github.com/DigitalzombieTLD?tab=repositories",
+	"authorURL":"https://github.com/DigitalzombieTLD,
 	"mods":[
 		{
 			"name":"FoxCompanion",
@@ -16,6 +16,28 @@
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":false,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"AudioCore Plugin",
+			"version":"1.0.0.0",
+			"updated":"2022-12-12",
+			"description":"A plugin that enables the standard Unity audio engine. Does nothing on it's own.",
+			"modURL":"https://github.com/DigitalzombieTLD/AudioCore",
+			"downloadURL":"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.0/AudioCore_PLUGIN_1.0.zip",
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.4.3.0"
+			},
+			"dependencies":[],			
 			"updater":{
 				"enable":false,
 				"downloads":[]
