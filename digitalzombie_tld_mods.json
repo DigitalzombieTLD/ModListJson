@@ -134,7 +134,7 @@
 				"mlversion":"0.4.3.0"
 			},
 			"dependencies":[
-				"ModSettings",
+				"ModSettings"
 			],
 			"updater":{
 				"enable":true,
