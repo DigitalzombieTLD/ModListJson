@@ -123,6 +123,30 @@
 			}
 		},
 		{
+			"name":"Fireworks",
+			"version":"0.8.0",
+			"updated":"2020-12-31",
+			"description":"Adds fireworks to the flaregun",
+			"modURL":"https://github.com/DigitalzombieTLD/Fireworks",
+			"downloadURL":"https://github.com/DigitalzombieTLD/Fireworks/releases/download/0.8.0/TLD_Fireworks_0.8.0.zip",
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.4.3.0"
+			},
+			"dependencies":[
+				"ModSettings",
+			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
 			"name":"AnselMod",
 			"version":"0.9.0",
 			"updated":"2021-05-09",
