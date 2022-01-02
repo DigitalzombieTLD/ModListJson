@@ -29,7 +29,7 @@
 		{
 			"name":"AudioCore Plugin",
 			"version":"1.0.0.0",
-			"updated":"2022-12-12",
+			"updated":"2021-12-12",
 			"description":"A plugin that enables the standard Unity audio engine. Does nothing on it's own.",
 			"modURL":"https://github.com/DigitalzombieTLD/AudioCore",
 			"downloadURL":"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.0/AudioCore_PLUGIN_1.0.zip",
@@ -51,7 +51,7 @@
 		{
 			"name":"JumpMod",
 			"version":"0.9.0",
-			"updated":"2022-11-17",
+			"updated":"2021-11-17",
 			"description":"Let's you jump",
 			"modURL":"https://github.com/DigitalzombieTLD/JumpMod",
 			"downloadURL":"https://github.com/DigitalzombieTLD/JumpMod/releases/download/0.9.1/TLD.JumpMod_v0.9.1.zip",
@@ -75,7 +75,7 @@
 		{
 			"name":"StickPick",
 			"version":"1.2.0",
-			"updated":"2022-12-17",
+			"updated":"2021-12-17",
 			"description":"Pickup sticks/stones in a radius around you",
 			"modURL":"https://github.com/DigitalzombieTLD/TLD-StickPick",
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.2.0/TLDStickPick_v1.2.0.zip",
@@ -99,7 +99,7 @@
 		{
 			"name":"TLD Solitaire",
 			"version":"0.9.1",
-			"updated":"2022-12-16",
+			"updated":"2021-12-16",
 			"description":"Waste your time in style - play Solitaire",
 			"modURL":"https://github.com/DigitalzombieTLD/TLDSolitaire",
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.9.1/TLDSolitaire_v0.9.1.zip",
@@ -125,7 +125,7 @@
 		{
 			"name":"Fireworks",
 			"version":"0.8.0",
-			"updated":"2022-12-31",
+			"updated":"2021-12-31",
 			"description":"Adds fireworks to the flaregun",
 			"modURL":"https://github.com/DigitalzombieTLD/Fireworks",
 			"downloadURL":"https://github.com/DigitalzombieTLD/Fireworks/releases/download/0.8.0/TLD_Fireworks_0.8.0.zip",
@@ -135,6 +135,34 @@
 			},
 			"dependencies":[
 				"ModSettings"
+			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"Candlelight",
+			"version":"1.0.0",
+			"updated":"2022-01-03",
+			"description":"Adds candles and new materials to craft candles",
+			"modURL":"https://github.com/DigitalzombieTLD/Candlelight",
+			"downloadURL":"https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.0.0/TLD_Candlelight_v1.0.0.zip",
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.4.3.0"
+			},
+			"dependencies":[
+				"ModSettings",
+				"ModComponent",
+				"CraftingRevision",
+				"AlternativeActionUtilities",
+				"GearSpawner"
 			],
 			"updater":{
 				"enable":true,
