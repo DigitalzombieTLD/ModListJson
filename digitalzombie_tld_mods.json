@@ -73,10 +73,10 @@
 			}
 		},
 		{
-			"name":"StickPick",
+			"name":"StickPick [Legacy]",
 			"version":"1.2.0",
 			"updated":"2021-12-17",
-			"description":"Pickup sticks/stones in a radius around you",
+			"description":"Version not maintained anymore. Switch to QuickPick for updated functionality.",
 			"modURL":"https://github.com/DigitalzombieTLD/TLD-StickPick",
 			"downloadURL":"https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.2.0/TLDStickPick_v1.2.0.zip",
 			"testedon":{
