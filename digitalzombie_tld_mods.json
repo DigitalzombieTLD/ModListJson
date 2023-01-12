@@ -1,178 +1,258 @@
 {
-	"author":"Digitalzombie",
-	"authorURL":"https://github.com/DigitalzombieTLD?tab=repositories",
-	"mods":[
+	"version": "2",
+	"author": "Digitalzombie",
+	"authorURL": "https://github.com/DigitalzombieTLD?tab=repositories",
+	"supportURL": "",
+	"mods": [
 		{
-			"name":"FoxCompanion",
-			"version":"0.9.9.5",
-			"updated":"2021-10-07",
-			"description":"A little fox companion for the lonely TLD player.",
-			"modURL":"https://github.com/DigitalzombieTLD/FoxCompanion",
-			"downloadURL":"https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.9.5/TLD.FoxCompanion_Mod_v0.9.9.5_FURY.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "0.9.9.5",
+			"name": "FoxCompanion",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-10-07",
+			"downloadURL": "https://github.com/DigitalzombieTLD/FoxCompanion/releases/download/0.9.9.5/TLD.FoxCompanion_Mod_v0.9.9.5_FURY.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/FoxCompanion",
+			"description": "A little fox companion for the lonely TLD player.",
+			"tags": "fox, companion, npc, follower, hunting",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":false,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"AudioCore Plugin",
-			"version":"1.0.0.0",
-			"updated":"2021-12-12",
-			"description":"A plugin that enables the standard Unity audio engine. Does nothing on it's own.",
-			"modURL":"https://github.com/DigitalzombieTLD/AudioCore",
-			"downloadURL":"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.0/AudioCore_PLUGIN_1.0.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
+			"type": "plugin",
+			"version": "1.2.0.0",
+			"name": "AudioCore",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-12",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.2/AudioCore_v1.2.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
+			"description": "A plugin that enables the standard Unity audio engine. Does nothing on it's own.\nTimecaspule version available on Github.",
+			"tags": "audio, plugin, core",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"dependencies":[],			
-			"updater":{
-				"enable":false,
-				"downloads":[]
+			"testedon": {
+				"tldversion": "2.0.6",
+				"mlversion": "0.6.0.0"
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"JumpMod",
-			"version":"0.9.0",
-			"updated":"2021-11-17",
-			"description":"Let's you jump",
-			"modURL":"https://github.com/DigitalzombieTLD/JumpMod",
-			"downloadURL":"https://github.com/DigitalzombieTLD/JumpMod/releases/download/0.9.1/TLD.JumpMod_v0.9.1.zip",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.0.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "StickPick [Legacy]",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-12-17",
+			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.2.0/TLDStickPick_v1.2.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/TLD-StickPick",
+			"description": "Mod frozen for the time being. Still works on Timecapsule.",
+			"tags": "bunnyhop",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"StickPick [Legacy]",
-			"version":"1.2.0",
-			"updated":"2021-12-17",
-			"description":"Version not maintained anymore. Switch to QuickPick for updated functionality.",
-			"modURL":"https://github.com/DigitalzombieTLD/TLD-StickPick",
-			"downloadURL":"https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.2.0/TLDStickPick_v1.2.0.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
-				"ModSettings"
+			"type": "mod",
+			"version": "0.9.1",
+			"name": "Solitaire",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-12-16",
+			"downloadURL": "https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.9.1/TLDSolitaire_v0.9.1.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/TLDSolitaire",
+			"description": "Waste your time in style - play Solitaire",
+			"tags": "solitaire, cards, cardgame",
+			"categories": [
+				"Gameplay",
+				"Misc"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
-			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},
-		{
-			"name":"TLD Solitaire",
-			"version":"0.9.1",
-			"updated":"2021-12-16",
-			"description":"Waste your time in style - play Solitaire",
-			"modURL":"https://github.com/DigitalzombieTLD/TLDSolitaire",
-			"downloadURL":"https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.9.1/TLDSolitaire_v0.9.1.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModComponent",
 				"AudioCore",
-				"DeveloperConsole",
-				"ModComponent"
+				"DeveloperConsole"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"Fireworks",
-			"version":"0.8.0",
-			"updated":"2021-12-31",
-			"description":"Adds fireworks to the flaregun",
-			"modURL":"https://github.com/DigitalzombieTLD/Fireworks",
-			"downloadURL":"https://github.com/DigitalzombieTLD/Fireworks/releases/download/0.8.0/TLD_Fireworks_0.8.0.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "0.8.0",
+			"name": "Fireworks",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-12-31",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Fireworks/releases/download/0.8.0/TLD_Fireworks_0.8.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/Fireworks",
+			"description": "Adds fireworks to the flaregun",
+			"tags": "fireworks, fun",
+			"categories": [
+				"Graphics",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"Candlelight",
-			"version":"1.2.0",
-			"updated":"2022-01-07",
-			"description":"Adds candles and new materials to craft candles",
-			"modURL":"https://github.com/DigitalzombieTLD/Candlelight",
-			"downloadURL":"https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.2.0/TLD_Candlelight_v1.2.0.zip",
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.4.3.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "Candlelight",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-01-07",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.2.0/TLD_Candlelight_v1.2.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/Candlelight",
+			"description": "Adds candles and new materials to craft candles",
+			"tags": "candle, wax, tallow, crafting, light",
+			"categories": [
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
 				"ModSettings",
 				"ModComponent",
+				"GearSpawner",
 				"CraftingRevisions",
-				"AlternativeActionUtilities",
-				"GearSpawner"
+				"AlternativeActionUtilities"
 			],
-			"updater":{
-				"enable":false,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.7.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
