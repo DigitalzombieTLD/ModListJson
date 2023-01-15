@@ -39,7 +39,7 @@
 				"mlversion": "0.5.7.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
@@ -56,7 +56,7 @@
 			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.2/AudioCore_v1.2.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
 			"description": "A plugin that enables the standard Unity audio engine. Does nothing on it's own.\nTimecaspule version available on Github.",
-			"tags": "audio, plugin, core",
+			"tags": "audio, plugin, core, dependency",
 			"categories": [
 				"Utility Mod"
 			],
@@ -64,7 +64,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_audiocore.jpg"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -122,7 +124,7 @@
 				"mlversion": "0.5.7.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
@@ -165,7 +167,7 @@
 				"mlversion": "0.5.7.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
@@ -206,7 +208,7 @@
 				"mlversion": "0.5.7.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
@@ -251,8 +253,53 @@
 				"mlversion": "0.5.7.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "library",
+			"version": "0.8.0",
+			"name": "AudioManager",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-01-14",
+			"updated": "2023-01-14",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/0.8.0/AudioManager.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/AudioManager/",
+			"description": "Helper mod for using custom audioclips and controlling vanilla audio. Does nothing on its own.",
+			"tags": "audio, library, dependency",
+			"categories": [
+				"Audio"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_audiomanager.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "First stable release",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/0.8.0/AudioManager.dll"
+				]
 			},
 			"aliases": []
 		}
