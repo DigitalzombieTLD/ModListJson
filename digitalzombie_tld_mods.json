@@ -80,7 +80,7 @@
 				"mlversion": "0.6.0.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.2/AudioCore.dll"
 				]
@@ -296,7 +296,7 @@
 				"mlversion": "0.6.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/0.8.0/AudioManager.dll"
 				]
