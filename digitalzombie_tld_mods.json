@@ -80,7 +80,7 @@
 				"mlversion": "0.6.0.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.2/AudioCore.dll"
 				]
@@ -272,7 +272,8 @@
 			"description": "Helper mod for using custom audioclips and controlling vanilla audio. Does nothing on its own.",
 			"tags": "audio, library, dependency",
 			"categories": [
-				"Audio"
+				"Audio",
+				"Utility Mod"
 			],
 			"gameversion": [
 				"vanilla",
@@ -296,9 +297,51 @@
 				"mlversion": "0.6.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/0.8.0/AudioManager.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.10",
+			"name": "AlternativeActionUtilities",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "ds5678",
+			"released": "2023-04-07",
+			"updated": "2023-04-07",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AlternativeActionUtilities/releases/download/v1.10/AlternativeActionUtilities.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/AlternativeActionUtilities",
+			"description": "A utility mod for custom actions when clicking on things.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "First after-DLC release",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.10",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/AlternativeActionUtilities/releases/download/v1.10/AlternativeActionUtilities.dll"
 				]
 			},
 			"aliases": []
