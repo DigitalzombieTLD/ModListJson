@@ -215,14 +215,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"name": "Candlelight",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-01-07",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.2.0/TLD_Candlelight_v1.2.0.zip",
+			"updated": "2023-04-07",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.3.0/TLD_Candlelight_v1.3.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Candlelight",
 			"description": "Adds candles and new materials to craft candles",
 			"tags": "candle, wax, tallow, crafting, light",
@@ -231,9 +231,12 @@
 				"Gear Items"
 			],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight.png"
+			],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
@@ -249,8 +252,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -321,9 +324,12 @@
 				"Utility Mod"
 			],
 			"gameversion": [
+				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_alternativeactions.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -335,7 +341,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.10",
+				"tldversion": "2.12",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
