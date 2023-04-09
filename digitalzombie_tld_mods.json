@@ -76,8 +76,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
@@ -296,8 +296,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
@@ -319,7 +319,7 @@
 			"downloadURL": "https://github.com/DigitalzombieTLD/AlternativeActionUtilities/releases/download/v1.10/AlternativeActionUtilities.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AlternativeActionUtilities",
 			"description": "A utility mod for custom actions when clicking on things.",
-			"tags": "",
+			"tags": " library, dependency",
 			"categories": [
 				"Utility Mod"
 			],
@@ -342,12 +342,57 @@
 			},
 			"testedon": {
 				"tldversion": "2.12",
-				"mlversion": "0.6.1"
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AlternativeActionUtilities/releases/download/v1.10/AlternativeActionUtilities.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FullSwing",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "",
+			"released": "2023-04-09",
+			"updated": "2023-04-09",
+			"downloadURL": "https://github.com/DigitalzombieTLD/FullSwing/releases/download/v1.0.0/FullSwing.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/FullSwing/",
+			"description": "Adds options to modify swing speed and radius of fridge doors",
+			"tags": "fridge, doors",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_fullswing.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/FullSwing/releases/download/v1.0.0/FullSwing.dll"
 				]
 			},
 			"aliases": []
