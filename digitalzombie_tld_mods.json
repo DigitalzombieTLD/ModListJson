@@ -287,7 +287,8 @@
 				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_audiomanager.jpg"
 			],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"AudioCore"
 			],
 			"status": {
 				"working": true,
