@@ -272,7 +272,7 @@
 			"updated": "2023-04-10",
 			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.0.0/AudioManager.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioManager/",
-			"description": "Helper mod for using custom audioclips and controlling vanilla audio. \n<br/>\nDisable flare audio, disable waterfall audio adjust wind effect volume (eg. like clattering) when indoors, adjust aurora music volume",
+			"description": "Helper mod for using custom audioclips and controlling vanilla audio. \n\nDisable flare audio, disable waterfall audio adjust wind effect volume (eg. like clattering) when indoors, adjust aurora music volume",
 			"tags": "audio, library, dependency, flare, waterfall, clatter, farmhouse, aurora, music",
 			"categories": [
 				"Quality of Life",
