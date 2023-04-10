@@ -398,6 +398,49 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.0",
+			"name": "LonelyOrca",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "WulfMarius",
+			"released": "2023-04-10",
+			"updated": "2023-04-10",
+			"downloadURL": "https://github.com/DigitalzombieTLD/LonelyOrca/releases/download/v4.0.0/LonelyOrca.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/LonelyOrca/",
+			"description": "A classic mod ported over to pre-DLC TLD",
+			"tags": "orca, lonely, classic",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/blob/master/list_icon_lonelyorca.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/LonelyOrca/releases/download/v4.0.0/LonelyOrca.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
