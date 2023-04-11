@@ -441,6 +441,52 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3.0",
+			"name": "InfiniteFires",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "ds5678",
+			"released": "2023-04-12",
+			"updated": "2023-04-12",
+			"downloadURL": "https://github.com/DigitalzombieTLD/InfiniteFiresDLC/releases/download/v1.3.0/InfiniteFiresDLC.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/InfiniteFiresDLC",
+			"description": "Set fires to infinite duration with middle mousebutton",
+			"tags": "fire, endless, infinite",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_infinitefires.png"
+			],
+			"dependencies": [
+				"AlternativeActionUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/InfiniteFiresDLC/releases/download/v1.3.0/InfiniteFiresDLC.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
