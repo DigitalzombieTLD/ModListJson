@@ -80,7 +80,7 @@
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.3/AudioCore.dll"
 				]
@@ -235,7 +235,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight2.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -485,6 +485,52 @@
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/InfiniteFiresDLC/releases/download/v1.3.0/InfiniteFiresDLC.dll"
 				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.0",
+			"name": "CanneryManufactoringDLC",
+			"displayName": "",
+			"author": "Digitalzombie, Atlas Lumi",
+			"previousAuthors": "ds5678",
+			"released": "2023-04-14",
+			"updated": "2023-04-14",
+			"downloadURL": "https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/releases/download/v1.5.0/CanneryManufactoringDLC_v1.5.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/",
+			"description": "Designed to improve the usability of the Last Resort Cannery Workshop in Bleak Inlet, especially on Interloper difficulty.",
+			"tags": "",
+			"categories": [
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_cannerymanufactoring.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
 			},
 			"aliases": []
 		}
