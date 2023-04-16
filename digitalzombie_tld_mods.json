@@ -80,7 +80,7 @@
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.3/AudioCore.dll"
 				]
@@ -529,8 +529,54 @@
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "MotionTracker",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "",
+			"released": "2023-04-16",
+			"updated": "2023-04-16",
+			"downloadURL": "https://github.com/DigitalzombieTLD/MotionTracker/releases/download/v1.0.0/MotionTracker.dll",
+			"modURL": "https://github.com/DigitalzombieTLD",
+			"description": "Adds a minimap that can show animals and spraypaint markings",
+			"tags": "map, motion, tracker, spraypaint, tracking",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_motiontracker.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/MotionTracker/releases/download/v1.0.0/MotionTracker.dll"
+				]
 			},
 			"aliases": []
 		}
