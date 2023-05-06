@@ -131,15 +131,15 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.9.1",
+			"version": "1.3.0",
 			"name": "Solitaire",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2021-12-16",
-			"downloadURL": "https://github.com/DigitalzombieTLD/TLDSolitaire/releases/download/v0.9.1/TLDSolitaire_v0.9.1.zip",
-			"modURL": "https://github.com/DigitalzombieTLD/TLDSolitaire",
+			"updated": "2023-05-06",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.3.0/Solitaire_1.3.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/Solitaire/",
 			"description": "Waste your time in style - play Solitaire",
 			"tags": "solitaire, cards, cardgame",
 			"categories": [
@@ -147,13 +147,21 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_solitaire.png"
+			],
 			"dependencies": [
+				"ModSettings",
 				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions",
 				"AudioCore",
-				"DeveloperConsole"
+				"DeveloperConsole",
+				"AudioManager"
 			],
 			"status": {
 				"working": true,
@@ -163,11 +171,11 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7.0"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -252,10 +260,10 @@
 			},
 			"testedon": {
 				"tldversion": "2.12",
-				"mlversion": "0.6.1"
+				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
