@@ -2,7 +2,6 @@
 	"version": "2",
 	"author": "Digitalzombie",
 	"authorURL": "https://github.com/DigitalzombieTLD?tab=repositories",
-	"supportURL": "",
 	"mods": [
 		{
 			"type": "mod",
@@ -270,14 +269,14 @@
 		},
 		{
 			"type": "library",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "AudioManager",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-01-14",
-			"updated": "2023-04-10",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.0.0/AudioManager.dll",
+			"updated": "2023-05-08",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.1.0/AudioManager.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioManager/",
 			"description": "Helper mod for using custom audioclips and controlling vanilla audio. \n\nDisable flare audio, disable waterfall audio adjust wind effect volume (eg. like clattering) when indoors, adjust aurora music volume",
 			"tags": "audio, library, dependency, flare, waterfall, clatter, farmhouse, aurora, music",
@@ -300,7 +299,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added features for players",
+				"patchnotes": "I did stuff!",
 				"notes": "",
 				"issues": ""
 			},
@@ -311,7 +310,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.0.0/AudioManager.dll"
+					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.1.0/AudioManager.dll"
 				]
 			},
 			"aliases": []
