@@ -654,7 +654,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_northernlightsbroadcast.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_northernlightsbroadcast.png"
 			],
 			"dependencies": [
 				"ModSettings",
