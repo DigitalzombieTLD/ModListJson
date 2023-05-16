@@ -666,7 +666,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "*.mp4 or *.avi files recommended. Videoplay uses installed codecs. Can be hit and miss, webm *could* maybe work too, feedback about working formats appreciated",
-				"issues": "Multiple TVs inside the same scene will share the same picture when switched on"
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.12",
