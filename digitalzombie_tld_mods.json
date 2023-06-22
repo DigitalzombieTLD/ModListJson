@@ -597,14 +597,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.0",
+			"version": "1.6.0",
 			"name": "CozyCushions",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-06-06",
-			"updated": "2023-06-12",
-			"downloadURL": "https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.5.0/CozyCushions_v1.5.0.zip",
+			"updated": "2023-06-23",
+			"downloadURL": "https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.6.0/CozyCushions_v1.6.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/CozyCushions",
 			"description": "14 craftable pillows; sit on other objects like chairs, benches, toilets; optional buffs",
 			"tags": "",
@@ -626,7 +626,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "BetterBases compatibility fix",
 				"notes": "",
 				"issues": ""
 			},
