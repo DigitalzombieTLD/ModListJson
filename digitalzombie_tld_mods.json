@@ -90,48 +90,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
-			"name": "StickPick [Legacy]",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-12-17",
-			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-StickPick/releases/download/v1.2.0/TLDStickPick_v1.2.0.zip",
-			"modURL": "https://github.com/DigitalzombieTLD/TLD-StickPick",
-			"description": "Mod frozen for the time being. Still works on Timecapsule.",
-			"tags": "bunnyhop",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Cheats"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.3.0",
 			"name": "Solitaire",
 			"displayName": "",
@@ -183,47 +141,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.8.0",
-			"name": "Fireworks",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2021-12-31",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Fireworks/releases/download/0.8.0/TLD_Fireworks_0.8.0.zip",
-			"modURL": "https://github.com/DigitalzombieTLD/Fireworks",
-			"description": "Adds fireworks to the flaregun",
-			"tags": "fireworks, fun",
-			"categories": [
-				"Graphics",
-				"Misc"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.02",
-				"mlversion": "0.5.7.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.3.8",
 			"name": "Candlelight",
 			"displayName": "",
@@ -260,7 +177,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -306,7 +223,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -351,7 +268,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -396,7 +313,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -439,7 +356,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -485,7 +402,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -533,7 +450,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -577,7 +494,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -622,7 +539,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -669,7 +586,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -714,12 +631,55 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "library",
+			"version": "2.0.0",
+			"name": "ModSettings",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "zeobviouslyfakeacc",
+			"released": "2023-06-22",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0/ModSettings.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/ModSettings/",
+			"description": "Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.\n\nThanks zeobviouslyfakeacc, for all your work!",
+			"tags": "settings, utility, dependency",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_modsettings.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "2.17 fix",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.17",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0/ModSettings.zip"
+				]
 			},
 			"aliases": []
 		}
