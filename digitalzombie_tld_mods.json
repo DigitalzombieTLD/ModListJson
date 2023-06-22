@@ -46,14 +46,14 @@
 		},
 		{
 			"type": "plugin",
-			"version": "1.3.0.0",
+			"version": "1.4.0.0",
 			"name": "AudioCore",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-04-11",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.3/AudioCore.dll",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.4/AudioCore.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
 			"description": "A plugin that enables the standard Unity audio engine. Does nothing on it's own.\nTimecaspule version available on Github.",
 			"tags": "audio, plugin, core, dependency",
@@ -72,12 +72,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "ML 0.6.1 fix",
+				"patchnotes": "TLD 2.17 fix",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
