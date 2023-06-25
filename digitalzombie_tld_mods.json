@@ -81,9 +81,9 @@
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.4.1/AudioCore.dll"
+					""
 				]
 			},
 			"aliases": []
