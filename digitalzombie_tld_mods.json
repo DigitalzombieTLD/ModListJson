@@ -77,7 +77,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -130,7 +130,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19,
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -141,14 +141,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.8",
+			"version": "1.4.0",
 			"name": "Candlelight",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-06-20",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.3.8/TLD_Candlelight_v1.3.8.zip",
+			"updated": "2023-07-04",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.4.0/TLD_Candlelight_v1.4.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Candlelight/",
 			"description": "Adds candles and new materials to craft candles",
 			"tags": "candle, wax, tallow, crafting, light",
@@ -173,11 +173,11 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "1.3.8\n- Small bugfixes\n1.3.5\n- Removed AlternativeAction Utilities dependency\n- Added option to assign custom button for lighting/extinguishing candle\n- Added option for unlimited burntime\n- Added more loose spawnpoints\n- Fixed brightness of candle texture in dark places\n- Maybe fixed incompatibility with WeightTweaks",
+				"notes": "Fat harvesting fixed",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -223,7 +223,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.197",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -268,7 +268,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -313,7 +313,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -356,7 +356,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -402,7 +402,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -450,7 +450,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -494,7 +494,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -539,7 +539,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -586,7 +586,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -631,7 +631,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -672,7 +672,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
