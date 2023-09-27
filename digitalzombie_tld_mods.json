@@ -46,14 +46,14 @@
 		},
 		{
 			"type": "plugin",
-			"version": "1.4.1",
+			"version": "2.2.3",
 			"name": "AudioCore",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-06-25",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/1.4.1/AudioCore.dll",
+			"updated": "2023-09-27",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/2.2.3/AudioCore.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
 			"description": "THIS IS A PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!!",
 			"tags": "audio, plugin, core, dependency",
@@ -72,12 +72,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "TLD 2.17 fix",
+				"patchnotes": "TLD 2.23 fix",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -223,7 +223,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.197",
+				"tldversion": "2.19",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
