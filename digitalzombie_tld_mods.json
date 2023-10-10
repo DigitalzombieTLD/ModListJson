@@ -77,7 +77,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -130,7 +130,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -141,14 +141,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"name": "Candlelight",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-07-04",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.4.0/TLD_Candlelight_v1.4.0.zip",
+			"updated": "2023-10-10",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.5.0/TLD_Candlelight_v1.5.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Candlelight/",
 			"description": "Adds candles and new materials to craft candles",
 			"tags": "candle, wax, tallow, crafting, light",
@@ -166,6 +166,7 @@
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
+				"ModData",
 				"GearSpawner",
 				"CraftingRevisions"
 			],
@@ -177,12 +178,12 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.3.8/TLD_Candlelight_v1.3.8.zip"]
+				"downloads": ["https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.5.0/TLD_Candlelight_v1.5.0.zip"]
 			},
 			"aliases": []
 		},
@@ -223,7 +224,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -268,7 +269,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -313,7 +314,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -356,7 +357,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -402,7 +403,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -494,7 +495,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -539,7 +540,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -586,7 +587,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -631,7 +632,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -672,7 +673,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.24",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
