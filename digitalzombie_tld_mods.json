@@ -81,10 +81,8 @@
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
-				"enable": false,
-				"downloads": [
-					""
-				]
+				"enable": true,
+				"downloads": []
 			},
 			"aliases": []
 		},
@@ -135,7 +133,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.0/Solitaire_1.4.0.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.0/Solitaire_1.4.0.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -183,7 +183,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.6.0/TLD_Candlelight_v1.6.0.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.6.0/TLD_Candlelight_v1.6.0.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -456,7 +458,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/releases/download/v1.5.0/CanneryManufactoringDLC_v1.5.0.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/releases/download/v1.5.0/CanneryManufactoringDLC_v1.5.0.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -545,7 +549,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/ItemPicker/releases/download/v1.0.0/ItemPicker_v1.0.0.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/ItemPicker/releases/download/v1.0.0/ItemPicker_v1.0.0.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -592,7 +598,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v1.0.2/NorthernLightsBroadcast_v1.0.2.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v1.0.2/NorthernLightsBroadcast_v1.0.2.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -637,7 +645,9 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.6.5/CozyCushions_v1.6.5.zip"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.6.5/CozyCushions_v1.6.5.zip"
+				]
 			},
 			"aliases": []
 		},
@@ -680,6 +690,49 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0/ModSettings.zip"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.1",
+			"name": "DeveloperConsole",
+			"displayName": "",
+			"author": "FINDarkside, zeobviouslyfakeacc, and ds5678",
+			"previousAuthors": "",
+			"released": "2023-04-02",
+			"updated": "2023-04-02",
+			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.5.1/DeveloperConsole.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/",
+			"description": "A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
+			"tags": "developer, console, cheats, dev, devconsole",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsole.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.5.1/DeveloperConsole.dll"
 				]
 			},
 			"aliases": []
