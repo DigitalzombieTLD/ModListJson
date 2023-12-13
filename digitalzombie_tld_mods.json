@@ -52,8 +52,8 @@
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-09-27",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/2.2.3/AudioCore.dll",
+			"updated": "2023-12-14",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/3.0.0/AudioCore.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
 			"description": "THIS IS A PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!!",
 			"tags": "audio, plugin, core, dependency",
@@ -72,12 +72,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "TLD 2.23 fix",
+				"patchnotes": "TLD 2.25 fix, made everything more robust",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
