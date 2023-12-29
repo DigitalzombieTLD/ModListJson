@@ -414,7 +414,7 @@
 					"https://github.com/DigitalzombieTLD/InfiniteFiresDLC/releases/download/v1.3.0/InfiniteFiresDLC.dll"
 				]
 			},
-			"aliases": []
+			"aliases": ["InfiniteFiresDLC"]
 		},
 		{
 			"type": "mod",
