@@ -750,7 +750,7 @@
 			"released": "2024-02-04",
 			"updated": "2024-02-04",
 			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.6.7_Wintermute/DeveloperConsoleWintermute.dll",
-			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.6.7_Wintermute",
+			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/tag/v1.6.7_Wintermute",
 			"description": "Console for storymode. Check the release notes for detailed instructions",
 			"tags": "developer, console, cheats, dev, devconsole, wintermute, story",
 			"categories": [
