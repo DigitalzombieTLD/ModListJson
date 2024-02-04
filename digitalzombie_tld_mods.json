@@ -708,6 +708,7 @@
 			"description": "A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
 			"tags": "developer, console, cheats, dev, devconsole",
 			"categories": [
+				"Utility Mod",
 				"Cheats"
 			],
 			"gameversion": [
@@ -717,7 +718,9 @@
 			"images": [
 				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsole.png"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
@@ -734,6 +737,47 @@
 				"downloads": [
 					"https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.5.1/DeveloperConsole.dll"
 				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.6.7",
+			"name": "DeveloperConsoleWintermute",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "FINDarkside, zeobviouslyfakeacc, ds5678",
+			"released": "2024-02-04",
+			"updated": "2024-02-04",
+			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.6.7_Wintermute/DeveloperConsoleWintermute.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.6.7_Wintermute",
+			"description": "Console for storymode. Check the release notes for detailed instructions",
+			"tags": "developer, console, cheats, dev, devconsole, wintermute, story",
+			"categories": [
+				"Utility Mod",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsolewintermute.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.08",
+				"mlversion": "0.6.2.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
 			},
 			"aliases": []
 		}
