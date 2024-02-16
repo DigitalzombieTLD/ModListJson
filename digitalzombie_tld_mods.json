@@ -780,6 +780,50 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.3",
+			"name": "DualSenseX",
+			"displayName": "",
+			"author": "Digitalzombie",
+			"previousAuthors": "",
+			"released": "2024-02-16",
+			"updated": "2024-02-16",
+			"downloadURL": "https://github.com/DigitalzombieTLD/DualSenseX/releases/download/1.0.3/DualSenseX_1.0.3.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/DualSenseX/",
+			"description": "Check instructions on github",
+			"tags": "controller, dualsense, dualsensex, ps, playstation, gamepad, feedback, haptic",
+			"categories": [
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_dsx.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
