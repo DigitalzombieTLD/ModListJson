@@ -824,6 +824,46 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "CougarSoundBegone",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-06-27",
+			"updated": "2024-06-27",
+			"downloadURL": "https://github.com/DigitalzombieTLD/CougarSoundBegone/releases/download/v1.0.0/CougarSoundBegone.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/CougarSoundBegone",
+			"description": "Kills the stupid cougar in the main menu on startup",
+			"tags": "audio, cougar, mute, volume, stupid cougar",
+			"categories": [
+				"Quality of Life",
+				"Audio"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.29",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
