@@ -557,14 +557,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "2.0.2",
 			"name": "NorthernLightsBroadcast",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-05-16",
-			"updated": "2023-06-20",
-			"downloadURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v1.0.2/NorthernLightsBroadcast_v1.0.2.zip",
+			"updated": "2024-06-27",
+			"downloadURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.2/NorthernLightsBroadcast_v2.0.2.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/",
 			"description": "Watch your favorite movies and series in TLD",
 			"tags": "video, playback, tv, television, telly, movie, series, watching",
@@ -593,13 +593,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.29",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v1.0.2/NorthernLightsBroadcast_v1.0.2.zip"
+					"https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.2/NorthernLightsBroadcast_v2.0.2.zip"
 				]
 			},
 			"aliases": []
