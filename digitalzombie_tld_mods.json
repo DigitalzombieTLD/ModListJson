@@ -867,14 +867,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.2.0",
 			"name": "RunInBackground",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-07-01",
 			"updated": "2024-07-01",
-			"downloadURL": "https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.1.0/RunInBackground.dll",
+			"downloadURL": "https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.2.0/RunInBackground.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/RunInBackground",
 			"description": "Keeps the game running, when it looses focus",
 			"tags": "focus, background, running, run",
@@ -903,7 +903,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.1.0/RunInBackground.dll"]
+				"downloads": ["https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.2.0/RunInBackground.dll"]
 			},
 			"aliases": []
 		}
