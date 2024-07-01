@@ -903,7 +903,53 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.2.0/RunInBackground.dll"]
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/RunInBackground/releases/download/v1.2.0/RunInBackground.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Yes I Know",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-07-01",
+			"updated": "2024-07-01",
+			"downloadURL": "https://github.com/DigitalzombieTLD/YesIKnow/releases/download/v1.0.0/YesIKnow.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/YesIKnow",
+			"description": "Disables the hovertext on items and/or fire. You should know how a stick looks like by now.",
+			"tags": "hover, hovertext, text, mouse, mouseover, mouse over, description",
+			"categories": [
+				"Quality of Life",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.30",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/YesIKnow/releases/download/v1.0.0/YesIKnow.dll"
+				]
 			},
 			"aliases": []
 		}
