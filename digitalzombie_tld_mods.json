@@ -77,7 +77,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -178,7 +178,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -191,14 +191,14 @@
 		},
 		{
 			"type": "library",
-			"version": "1.3.8",
+			"version": "1.5.1",
 			"name": "AudioManager",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-01-14",
-			"updated": "2023-05-16",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.3.8/AudioManager.dll",
+			"updated": "2024-10-17",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.5.1/AudioManager.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioManager/",
 			"description": "Helper mod for using custom audioclips and controlling vanilla audio. \n\nDisable flare audio, disable waterfall audio adjust wind effect volume (eg. like clattering) when indoors, adjust aurora music volume",
 			"tags": "audio, library, dependency, flare, waterfall, clatter, farmhouse, aurora, music, radio",
@@ -226,13 +226,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.3.8/AudioManager.dll"
+					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.5.1/AudioManager.dll"
 				]
 			},
 			"aliases": []
@@ -271,7 +271,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -316,7 +316,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -359,7 +359,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -405,7 +405,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -414,7 +414,7 @@
 					"https://github.com/DigitalzombieTLD/InfiniteFiresDLC/releases/download/v1.3.0/InfiniteFiresDLC.dll"
 				]
 			},
-			"aliases": []
+			"aliases": ["InfiniteFiresDLC"]
 		},
 		{
 			"type": "mod",
@@ -499,7 +499,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -544,7 +544,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -640,7 +640,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -683,7 +683,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -729,7 +729,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -816,7 +816,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -898,7 +898,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
@@ -920,7 +920,7 @@
 			"updated": "2024-07-01",
 			"downloadURL": "https://github.com/DigitalzombieTLD/YesIKnow/releases/download/v1.0.0/YesIKnow.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/YesIKnow",
-			"description": "Disables the hovertext on items and/or fire. You should know how a stick looks like by now.",
+			"description": "Disables the hovertext on items and/or fire",
 			"tags": "hover, hovertext, text, mouse, mouseover, mouse over, description",
 			"categories": [
 				"Quality of Life",
@@ -942,7 +942,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
