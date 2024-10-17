@@ -557,14 +557,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.4",
+			"version": "2.0.6",
 			"name": "NorthernLightsBroadcast",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-05-16",
-			"updated": "2024-06-29",
-			"downloadURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.4/NorthernLightsBroadcast_v2.0.4.zip",
+			"updated": "2024-10-17",
+			"downloadURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.6/NorthernLightsBroadcast_v2.0.6.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/",
 			"description": "Watch your favorite movies and series in TLD",
 			"tags": "video, playback, tv, television, telly, movie, series, watching",
@@ -593,13 +593,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.29",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.4/NorthernLightsBroadcast_v2.0.4.zip"
+					"https://github.com/DigitalzombieTLD/NorthernLightsBroadcast/releases/download/v2.0.6/NorthernLightsBroadcast_v2.0.6.zip"
 				]
 			},
 			"aliases": []
@@ -702,7 +702,7 @@
 			"author": "Digitalzombie, FINDarkside, zeobviouslyfakeacc, ds5678",
 			"previousAuthors": "",
 			"released": "2023-04-02",
-			"updated": "2024-09-22",
+			"updated": "2024-10-17",
 			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.7.2/DeveloperConsole_v1.7.2.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/",
 			"description": "A mod that makes Hinterland's developer console accessible in-game. F1 to open / close the console, type 'help' to get a list of commands.",
