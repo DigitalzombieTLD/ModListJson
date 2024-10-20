@@ -88,14 +88,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.4.4",
 			"name": "Solitaire",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-06-23",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.0/Solitaire_1.4.0.zip",
+			"updated": "2024-10-20",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.4/Solitaire_1.4.4.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Solitaire/",
 			"description": "Waste your time in style - play Solitaire",
 			"tags": "solitaire, cards, cardgame",
@@ -123,18 +123,18 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "TLD 2.17 fix",
+				"patchnotes": "Bugfixes",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.0/Solitaire_1.4.0.zip"
+					"https://github.com/DigitalzombieTLD/Solitaire/releases/download/v1.4.4/Solitaire_1.4.4.zip"
 				]
 			},
 			"aliases": []
