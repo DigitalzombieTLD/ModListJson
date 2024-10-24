@@ -952,6 +952,50 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "LitharsMending",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-10-24",
+			"updated": "2024-10-24",
+			"downloadURL": "https://github.com/DigitalzombieTLD/LitharsMending/releases/download/1.0.0/LitharsMending.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/LitharsMending",
+			"description": "Lets you repair ruined clothing items",
+			"tags": "repair, mending, ruined, clothing",
+			"categories": [
+				"Quality of Life",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_litharsmending.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/LitharsMending/releases/download/1.0.0/LitharsMending.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
