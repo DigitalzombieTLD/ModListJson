@@ -147,7 +147,7 @@
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2024-06-27",
+			"updated": "2024-12-08",
 			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.9.0/TLD_Candlelight_v1.9.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Candlelight/",
 			"description": "Adds candles and new materials to craft candles",
@@ -996,6 +996,52 @@
 				]
 			},
 			"aliases": []
-		}
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "UnityExplorerTLD",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "STBlade, sinai",
+			"released": "2024-12-08",
+			"updated": "2024-12-08",
+			"downloadURL": "https://github.com/DigitalzombieTLD/UnityExplorerTLD/releases/download/v1.0.0/UnityExplorerTLD_v1.0.0.zip",
+			"modURL": "https://github.com/DigitalzombieTLD/UnityExplorerTLD/",
+			"description": "UnityExplorer with optimizations for TLD",
+			"tags": "candle, wax, tallow, crafting, light",
+			"categories": [
+				"Misc",
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight2.png"
+			],
+			"dependencies": [
+				
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.35",
+				"mlversion": "0.6.6.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/UnityExplorerTLD/releases/download/v1.0.0/UnityExplorerTLD_v1.0.0.zip"
+				]
+			},
+			"aliases": []
+		},
 	]
 }
