@@ -141,14 +141,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.8.2",
+			"version": "1.9.0",
 			"name": "Candlelight",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2024-06-27",
-			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.8.2/TLD_Candlelight_v1.8.2.zip",
+			"downloadURL": "https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.9.0/TLD_Candlelight_v1.9.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/Candlelight/",
 			"description": "Adds candles and new materials to craft candles",
 			"tags": "candle, wax, tallow, crafting, light",
@@ -178,13 +178,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.8.2/TLD_Candlelight_v1.8.2.zip"
+					"https://github.com/DigitalzombieTLD/Candlelight/releases/download/v1.9.0/TLD_Candlelight_v1.9.0.zip"
 				]
 			},
 			"aliases": []
