@@ -418,15 +418,15 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.0",
-			"name": "CanneryManufacturingDLC",
+			"version": "1.7.3",
+			"name": "CanneryManufacturing",
 			"displayName": "",
-			"author": "Digitalzombie, Atlas Lumi",
-			"previousAuthors": "ds5678",
+			"author": "Varrxion",
+			"previousAuthors": "Digitalzombie, Atlas Lumi, ds5678",
 			"released": "2023-04-14",
-			"updated": "2023-04-14",
-			"downloadURL": "https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/releases/download/v1.5.0/CanneryManufactoringDLC_v1.5.0.zip",
-			"modURL": "https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/",
+			"updated": "2024-12-13",
+			"downloadURL": "https://github.com/Varrxion/CanneryManufacturing/releases/download/1.7.3/CanneryManufacturing.zip",
+			"modURL": "https://github.com/Varrxion/CanneryManufacturing",
 			"description": "Designed to improve the usability of the Last Resort Cannery Workshop in Bleak Inlet, especially on Interloper difficulty.",
 			"tags": "",
 			"categories": [
@@ -453,13 +453,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/CanneryManufacturingDLC/releases/download/v1.5.0/CanneryManufactoringDLC_v1.5.0.zip"
+					"https://github.com/Varrxion/CanneryManufacturing/releases/download/1.7.3/CanneryManufacturing.zip"
 				]
 			},
 			"aliases": []
