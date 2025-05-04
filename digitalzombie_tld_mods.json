@@ -653,14 +653,14 @@
 		},
 		{
 			"type": "library",
-			"version": "2.0.0",
+			"version": "2.0.5",
 			"name": "ModSettings",
 			"displayName": "",
 			"author": "Digitalzombie",
 			"previousAuthors": "zeobviouslyfakeacc",
 			"released": "2023-06-22",
-			"updated": "2023-06-22",
-			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0/ModSettings.zip",
+			"updated": "2025-05-04",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.5/ModSettings.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/ModSettings/",
 			"description": "Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.\n\nThanks zeobviouslyfakeacc, for all your work!",
 			"tags": "settings, utility, dependency",
@@ -678,18 +678,18 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "2.17 fix",
+				"patchnotes": "Small compatibilty fix and optimization",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.40",
+				"mlversion": "0.6.6.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0/ModSettings.zip"
+					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.5/ModSettings.zip"
 				]
 			},
 			"aliases": []
