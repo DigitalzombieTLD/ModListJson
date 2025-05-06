@@ -1087,6 +1087,52 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ChangeCustomSettings",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2025-05-06",
+			"updated": "2025-05-06",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.0.0/ChangeCustomSettings.dll",
+			"modURL": "hhttps://github.com/DigitalzombieTLD/ChangeCustomSettings",
+			"description": "Lets you change the difficulty settings of a running game",
+			"tags": "settings, custom, change, midgame",
+			"categories": [
+				"Misc",
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/changecustomsettings.jpg"
+			],
+			"dependencies": [
+				
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.0.0/ChangeCustomSettings.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
