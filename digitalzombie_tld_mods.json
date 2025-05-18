@@ -653,14 +653,14 @@
 		},
 		{
 			"type": "library",
-			"version": "2.0.6",
+			"version": "2.0.86",
 			"name": "ModSettings",
 			"displayName": "",
 			"author": "Digitalzombie",
 			"previousAuthors": "zeobviouslyfakeacc",
 			"released": "2023-06-22",
-			"updated": "2025-05-04",
-			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.6/ModSettings.dll",
+			"updated": "2025-05-18",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/ModSettings/",
 			"description": "Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.\n\nThanks zeobviouslyfakeacc, for all your work!",
 			"tags": "settings, utility, dependency",
@@ -678,7 +678,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "yeah yeah",
+				"patchnotes": "Waltz compatibility",
 				"notes": "",
 				"issues": ""
 			},
@@ -689,7 +689,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.6/ModSettings.dll"
+					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.dll"
 				]
 			},
 			"aliases": []
