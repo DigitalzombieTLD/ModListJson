@@ -653,7 +653,7 @@
 		},
 		{
 			"type": "library",
-			"version": "2.0.86",
+			"version": "2.0.8",
 			"name": "ModSettings",
 			"displayName": "",
 			"author": "Digitalzombie",
@@ -689,7 +689,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.dll"
+					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.zip"
 				]
 			},
 			"aliases": []
