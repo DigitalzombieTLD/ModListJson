@@ -687,9 +687,9 @@
 				"mlversion": "0.6.6.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.zip"
+					""
 				]
 			},
 			"aliases": []
