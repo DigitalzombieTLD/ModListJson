@@ -653,14 +653,14 @@
 		},
 		{
 			"type": "library",
-			"version": "2.0.8",
+			"version": "2.1.0",
 			"name": "ModSettings",
 			"displayName": "",
 			"author": "Digitalzombie",
 			"previousAuthors": "zeobviouslyfakeacc",
 			"released": "2023-06-22",
-			"updated": "2025-05-19",
-			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.0.8/ModSettings.zip",
+			"updated": "2025-05-28",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.1.0/ModSettings.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/ModSettings/",
 			"description": "Lets other mods display their settings in-game. This mod doesn't do anything on its own and should only be used as a dependency for other mods.\n\nThanks zeobviouslyfakeacc, for all your work!",
 			"tags": "settings, utility, dependency",
@@ -676,20 +676,20 @@
 			],
 			"dependencies": [],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
-				"patchnotes": "Waltz compatibility",
+				"patchnotes": "TLD 2.43 fix",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.43",
 				"mlversion": "0.6.6.0"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": [
-					""
+					"https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.1.0/ModSettings.dll"
 				]
 			},
 			"aliases": []
@@ -1090,14 +1090,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "ChangeCustomSettings",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2025-05-06",
-			"updated": "2025-05-06",
-			"downloadURL": "https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.0.0/ChangeCustomSettings.dll",
+			"updated": "2025-05-28",
+			"downloadURL": "https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.1.0/ChangeCustomSettings.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/ChangeCustomSettings",
 			"description": "Lets you change the difficulty settings of a running game",
 			"tags": "settings, custom, change, midgame",
@@ -1123,13 +1123,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.43",
 				"mlversion": "0.6.6.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.0.0/ChangeCustomSettings.dll"
+					"https://github.com/DigitalzombieTLD/ChangeCustomSettings/releases/download/v1.1.0/ChangeCustomSettings.dll"
 				]
 			},
 			"aliases": []
