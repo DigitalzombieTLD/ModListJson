@@ -604,14 +604,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.7.0",
+			"version": "1.8.0",
 			"name": "CozyCushions",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-10-12",
-			"updated": "2023-10-12",
-			"downloadURL": "https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.7.0/CozyCushions_v1.7.0.zip",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.8.0/CozyCushions_1.8.0.zip",
 			"modURL": "https://github.com/DigitalzombieTLD/CozyCushions",
 			"description": "14 craftable pillows; sit on other objects like chairs, benches, toilets; optional buffs",
 			"tags": "",
@@ -638,13 +638,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.7.0/CozyCushions_v1.7.0.zip"
+					"https://github.com/DigitalzombieTLD/CozyCushions/releases/download/v1.8.0/CozyCushions_1.8.0.zip"
 				]
 			},
 			"aliases": []
@@ -1131,4 +1131,5 @@
 		}
 	]
 }
+
 
