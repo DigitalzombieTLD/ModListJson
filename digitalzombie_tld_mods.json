@@ -668,8 +668,7 @@
 				"Utility Mod"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_modsettings.png"
@@ -712,8 +711,7 @@
 				"Cheats"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsole.png"
@@ -1061,8 +1059,7 @@
 				"Utility Mod"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 			],
