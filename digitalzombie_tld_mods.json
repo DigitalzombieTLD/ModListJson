@@ -108,7 +108,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_solitaire.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_solitaire.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -161,7 +161,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight2.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight2.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -256,7 +256,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_alternativeactions.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_alternativeactions.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -301,7 +301,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_fullswing.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_fullswing.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -346,7 +346,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_lonelyorca.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_lonelyorca.jpg"
 			],
 			"dependencies": [],
 			"status": {
@@ -390,7 +390,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_infinitefires.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_infinitefires.jpg"
 			],
 			"dependencies": [
 				"AlternativeActionUtilities"
@@ -436,7 +436,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_cannerymanufactoring.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_cannerymanufactoring.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -484,7 +484,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_motiontracker.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_motiontracker.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -529,7 +529,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_itempicker.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_itempicker.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -576,7 +576,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_northernlightsbroadcast.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_northernlightsbroadcast.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -624,7 +624,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_cozycushions.png"
+				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_cozycushions.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -669,7 +669,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_modsettings.png"
+				"https://raw.githubusercontent.com/DigitalzombieTLD/ModListJson/master/list_icon_modsettings.jpg"
 			],
 			"dependencies": [],
 			"status": {
@@ -712,7 +712,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsole.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsole.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -757,7 +757,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsolewintermute.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_developerconsolewintermute.jpg"
 			],
 			"dependencies": [],
 			"status": {
@@ -799,7 +799,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_dsx.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_dsx.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -883,7 +883,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_runinbackground.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_runinbackground.jpg"
 			],
 			"dependencies": [],
 			"status": {
@@ -971,7 +971,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_litharsmending.png"
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_litharsmending.jpg"
 			],
 			"dependencies": [],
 			"status": {
@@ -1131,5 +1131,6 @@
 		}
 	]
 }
+
 
 
