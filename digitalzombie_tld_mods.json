@@ -995,14 +995,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.8",
+			"version": "3.0.0",
 			"name": "PlacingAnywhere",
 			"displayName": "Placing Anywhere",
 			"author": "Digitalzombie",
 			"previousAuthors": "xpazeman",
 			"released": "",
 			"updated": "2023-01-06",
-			"downloadURL": "https://github.com/DigitalzombieTLD/tld-placing-anywhere/releases/download/v2.8.0/PlacingAnywhere.dll",
+			"downloadURL": "https://github.com/DigitalzombieTLD/tld-placing-anywhere/releases/download/v3.0.0/PlacingAnywhere.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/tld-placing-anywhere",
 			"description": "Mod for The Long Dark that removes restrictions when placing items, and adds controls to rotate and position the object.",
 			"tags": "",
@@ -1017,24 +1017,23 @@
 			"images": [				
 			],
 			"dependencies": [
-				"ModSettings",
-				"KeyboardUtilities"
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Moved from xpazeman",
+				"patchnotes": "Lite version until big update",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6.0"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/tld-placing-anywhere/releases/download/v2.8.0/PlacingAnywhere.dll"
+					"https://github.com/DigitalzombieTLD/tld-placing-anywhere/releases/download/v3.0.0/PlacingAnywhere.dll"
 				]
 			},
 			"aliases": []
@@ -1131,6 +1130,7 @@
 		}
 	]
 }
+
 
 
 
