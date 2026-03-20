@@ -46,14 +46,14 @@
 		},
 		{
 			"type": "plugin",
-			"version": "3.0.0",
+			"version": "3.1.0",
 			"name": "AudioCore",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-12-14",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/3.0.0/AudioCore.dll",
+			"updated": "2026-03-20",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioCore/releases/download/v3.1.0/AudioCore.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioCore",
 			"description": "THIS IS A PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!! PLUGIN!!!",
 			"tags": "audio, plugin, core, dependency",
@@ -72,16 +72,16 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "TLD 2.25 fix, made everything more robust",
+				"patchnotes": "TLD 2.51 fix",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -189,14 +189,14 @@
 		},
 		{
 			"type": "library",
-			"version": "1.5.1",
+			"version": "2.0.0",
 			"name": "AudioManager",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-01-14",
-			"updated": "2024-10-17",
-			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.5.1/AudioManager.dll",
+			"updated": "2026-03-20",
+			"downloadURL": "https://github.com/DigitalzombieTLD/AudioManager/releases/download/v2.0.0/AudioManager.dll",
 			"modURL": "https://github.com/DigitalzombieTLD/AudioManager/",
 			"description": "Helper mod for using custom audioclips and controlling vanilla audio. \n\nDisable flare audio, disable waterfall audio adjust wind effect volume (eg. like clattering) when indoors, adjust aurora music volume",
 			"tags": "audio, library, dependency, flare, waterfall, clatter, farmhouse, aurora, music, radio",
@@ -224,13 +224,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1.0"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2.0"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/1.5.1/AudioManager.dll"
+					"https://github.com/DigitalzombieTLD/AudioManager/releases/download/v2.0.0/AudioManager.dll"
 				]
 			},
 			"aliases": []
