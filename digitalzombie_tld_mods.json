@@ -692,15 +692,15 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.6.7",
+			"version": "1.7.0",
 			"name": "DeveloperConsoleWintermute",
 			"displayName": "",
 			"author": "Digitalzombie",
 			"previousAuthors": "FINDarkside, zeobviouslyfakeacc, ds5678",
-			"released": "2024-02-04",
-			"updated": "2024-02-04",
-			"downloadURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/download/v1.6.7_Wintermute/DeveloperConsoleWintermute.dll",
-			"modURL": "https://github.com/DigitalzombieTLD/TLD-Developer-Console/releases/tag/v1.6.7_Wintermute",
+			"released": "2026-03-21",
+			"updated": "2026-03-21",
+			"downloadURL": "https://github.com/DigitalzombieTLD/DeveloperConsoleWintermute/releases/download/v1.7.0/DeveloperConsoleWintermute.dll",
+			"modURL": "https://github.com/DigitalzombieTLD/DeveloperConsoleWintermute",
 			"description": "Console for storymode. Check the release notes for detailed instructions",
 			"tags": "developer, console, cheats, dev, devconsole, wintermute, story",
 			"categories": [
@@ -722,8 +722,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.08",
-				"mlversion": "0.6.2.0"
+				"tldversion": "2.20",
+				"mlversion": "0.7.2.0"
 			},
 			"updater": {
 				"enable": false,
