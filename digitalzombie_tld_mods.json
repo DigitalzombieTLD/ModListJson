@@ -188,6 +188,54 @@
 			"aliases": []
 		},
 		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "Test",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2026-03-29",
+			"downloadURL": "https://tldmods.net",
+			"modURL": "https://tldmods.net",
+			"description": "Jsut a test",
+			"tags": "test",
+			"categories": [
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_candlelight2.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"ModData"				
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					""
+				]
+			},
+			"aliases": []
+		},
+		{
 			"type": "library",
 			"version": "2.0.0",
 			"name": "AudioManager",
