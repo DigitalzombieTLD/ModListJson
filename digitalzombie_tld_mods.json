@@ -1014,7 +1014,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/okclm/ModListJson/blob/72e645792cba8ead3a22875b49d0f9e4704cca0f/list_icon_motiontracker.png"
+				"https://raw.githubusercontent.com/okclm/ModListJson/refs/heads/main/list_icon_motiontracker.png"
 			],
 			"dependencies": [
 				"ModSettings"
