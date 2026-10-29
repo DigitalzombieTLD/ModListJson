@@ -367,55 +367,7 @@
 				]
 			},
 			"aliases": []
-		},		
-		{
-			"type": "mod",
-			"version": "1.7.3",
-			"name": "CanneryManufacturing",
-			"displayName": "",
-			"author": "Varrxion",
-			"previousAuthors": "Digitalzombie, Atlas Lumi, ds5678",
-			"released": "2023-04-14",
-			"updated": "2024-12-13",
-			"downloadURL": "https://github.com/Varrxion/CanneryManufacturing/releases/download/1.7.3/CanneryManufacturing.zip",
-			"modURL": "https://github.com/Varrxion/CanneryManufacturing",
-			"description": "Designed to improve the usability of the Last Resort Cannery Workshop in Bleak Inlet, especially on Interloper difficulty.",
-			"tags": "",
-			"categories": [
-				"Gameplay",
-				"Gear Items"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://github.com/DigitalzombieTLD/ModListJson/raw/master/list_icon_cannerymanufactoring.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent",
-				"CraftingRevisions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.6.6.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Varrxion/CanneryManufacturing/releases/download/1.7.3/CanneryManufacturing.zip"
-				]
-			},
-			"aliases": []
-		},		
+		},				
 		{
 			"type": "mod",
 			"version": "1.0.0",
